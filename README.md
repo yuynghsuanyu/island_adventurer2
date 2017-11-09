@@ -1,2 +1,2 @@
-# island_adventurer2
-final projects
+# mybase2
+a SASS (SCSS) HTML + CSS + JS base
